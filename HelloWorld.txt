@@ -1,1 +1,2 @@
-This is git master branch.
+This is git master branch. 
+Changed 1
